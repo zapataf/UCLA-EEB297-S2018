@@ -9,7 +9,7 @@
     Location: TBD
     
     Instructor: Felipe Zapata
-    Office hours: Monday 2-3pm, LSB 3205 or by email
+    Office hours: by email
     Please, prepend the subject line of all course related emails with "EEB297"
 
 
