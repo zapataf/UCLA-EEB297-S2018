@@ -29,3 +29,30 @@ In this seminar, students will:
 * Gain knowledge about foundational controversies in evolution and ecology
 * Develop the ability to identify and explain key concepts in evolution and ecology, as well as expand on the most significant conclusions presented in the readings 
 * Develop scientific communication skills
+
+
+## Schedule
+
+Papers for each week will be posted at least one week in advance.
+
+* **Week 1** Organizational meeting, introduction to the course, description of topics, topic assignment
+    
+    **Readings**: [Laland et al. 2014](https://www.nature.com/news/does-evolutionary-theory-need-a-rethink-1.16080)
+
+* **Week 2** 
+
+* **Week 3** 
+
+* **Week 4** 
+
+* **Week 5** 
+
+* **Week 6** 
+
+* **Week 7** 
+
+* **Week 8** 
+
+* **Week 9** 
+
+* **Week 10** Synthesis (or potentially another topic) 
