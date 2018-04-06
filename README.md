@@ -19,7 +19,7 @@
 
 ## Course format
 
-This is a discussion-based seminar with short presentations and open discussions every week. To this end, all participants of the seminar are expected to read all papers assigned each week, as well as to bring in depth questions for discussion. Each week two student moderators will lead the session. The student moderators will make a **short** presentation on the selected topic, one presenting the *pro*, the other presenting the *con* positions, bring an annotated bibliography (2-4 extra papers), and moderate discussions along with the instructor. The overall idea would be to focus on the big picture controversy and not much into *teachnical controversy* (e.g., paper A uses method X and paper B uses method Y). No one (**including the instructor**) is an expert in all topics we will cover, so hopefully we will all learn together.
+This is a discussion-based seminar with short presentations and open discussions every week. To this end, all participants of the seminar are expected to read all papers assigned each week, as well as to bring in depth questions for discussion. Each week two student moderators will lead the session. The student moderators will make a **short** presentation on the selected topic, one presenting the *pro*, the other presenting the *con* positions, bring an annotated bibliography (2-4 extra papers), and moderate discussions along with the instructor. The overall idea would be to focus on the big picture controversy and not much into *technical controversy* (e.g., paper A uses method X and paper B uses method Y). No one (**including the instructor**) is an expert in all topics we will cover, so hopefully we will all learn together.
 
 
 ## Learning objectives
