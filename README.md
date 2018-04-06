@@ -5,8 +5,8 @@
     UCLA, EEB Spring 2018
     EE BIOL 297 - Selected Topics in EEB
     
-    Thursday: 3:00-4:30pm (Tentative)
-    Location: TBD
+    Thursday: 3:00-4:30ish pm 
+    Location: Boelter Hall 5514
     
     Instructor: Felipe Zapata
     Office hours: by email
