@@ -41,15 +41,15 @@ Papers for each week will be posted at least one week in advance.
 
 * **Week 2** Are there ecological limits to species diversity? 
     
-    **Readings**: [Harmon & Harrison 2015](https://www.ncbi.nlm.nih.gov/pubmed/25905502), [Rabosky and Hurlbert](https://www.ncbi.nlm.nih.gov/pubmed/25905501) 
+    **Readings**: [Harmon & Harrison 2015](https://www.ncbi.nlm.nih.gov/pubmed/25905502), [Rabosky & Hurlbert 2015](https://www.ncbi.nlm.nih.gov/pubmed/25905501) 
 
 * **Week 3**: Fossils vs Molecules and diversification dynamics
 
-    **Readings**: [Quental and Marshall 2010](https://www.ncbi.nlm.nih.gov/pubmed/20646780), [Morlon et al. 2011](https://www.ncbi.nlm.nih.gov/pubmed/21930899)
+    **Readings**: [Quental & Marshall 2010](https://www.ncbi.nlm.nih.gov/pubmed/20646780), [Morlon et al. 2011](https://www.ncbi.nlm.nih.gov/pubmed/21930899)
 
 * **Week 4**: Ecology, traits, and phylogenies
 
-    **Readings**:[Cavender-Bares et al. 2009](https://www.ncbi.nlm.nih.gov/pubmed/19473217), [Mayfield and Levine 2010](https://www.ncbi.nlm.nih.gov/pubmed/20576030)
+    **Readings**:[Cavender-Bares et al. 2009](https://www.ncbi.nlm.nih.gov/pubmed/19473217), [Mayfield & Levine 2010](https://www.ncbi.nlm.nih.gov/pubmed/20576030)
 
 * **Week 5**: A theory of macroevolution? 
 
