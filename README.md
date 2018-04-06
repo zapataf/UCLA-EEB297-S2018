@@ -39,20 +39,28 @@ Papers for each week will be posted at least one week in advance.
     
     **Readings**: [Laland et al. 2014](https://www.nature.com/news/does-evolutionary-theory-need-a-rethink-1.16080)
 
-* **Week 2** 
+* **Week 2** Are there ecological limits to species diversity? 
+    
+    **Readings**: [Harmon & Harrison 2015](https://www.ncbi.nlm.nih.gov/pubmed/25905502), [Rabosky and Hurlbert](https://www.ncbi.nlm.nih.gov/pubmed/25905501) 
 
-* **Week 3** 
+* **Week 3**: Fossils vs Molecules and diversification dynamics
 
-* **Week 4** 
+    **Readings**: [Quental and Marshall 2010](https://www.ncbi.nlm.nih.gov/pubmed/20646780), [Morlon et al. 2011](https://www.ncbi.nlm.nih.gov/pubmed/21930899)
 
-* **Week 5** 
+* **Week 4**: Ecology, traits, and phylogenies
 
-* **Week 6** 
+    **Readings**:[Cavender-Bares et al. 2009](https://www.ncbi.nlm.nih.gov/pubmed/19473217), [Mayfield and Levine 2010](https://www.ncbi.nlm.nih.gov/pubmed/20576030)
 
-* **Week 7** 
+* **Week 5**: A theory of macroevolution? 
 
-* **Week 8** 
+    **Readings**: Jablonski 2017
 
-* **Week 9** 
+* **Week 6**: Phenotypic plasticy, genetic assimilation, epigenetics
+
+* **Week 7**: Evo-Devo: mutations vs gene regulation
+
+* **Week 8**: Competition
+
+* **Week 9**: Can species form in sympatry?  
 
 * **Week 10** Synthesis (or potentially another topic) 
