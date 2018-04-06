@@ -35,7 +35,7 @@ In this seminar, students will:
 
 Papers for each week will be posted at least one week in advance.
 
-* **Week 1** Organizational meeting, introduction to the course, description of topics, topic assignment
+* **Week 1**: Organizational meeting, introduction to the course, description of topics, topic assignment
     
     **Readings**: [Laland et al. 2014](https://www.nature.com/news/does-evolutionary-theory-need-a-rethink-1.16080)
 
@@ -49,7 +49,7 @@ Papers for each week will be posted at least one week in advance.
 
 * **Week 4**: Ecology, traits, and phylogenies
 
-    **Readings**:[Cavender-Bares et al. 2009](https://www.ncbi.nlm.nih.gov/pubmed/19473217), [Mayfield & Levine 2010](https://www.ncbi.nlm.nih.gov/pubmed/20576030)
+    **Readings**: [Cavender-Bares et al. 2009](https://www.ncbi.nlm.nih.gov/pubmed/19473217), [Mayfield & Levine 2010](https://www.ncbi.nlm.nih.gov/pubmed/20576030)
 
 * **Week 5**: A theory of macroevolution? 
 
