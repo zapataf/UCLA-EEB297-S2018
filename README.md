@@ -56,11 +56,17 @@ Papers for each week will be posted at least one week in advance.
     **Readings**: [Gould 1980](http://www.somosbacteriasyvirus.com/gould.pdf), [Jablonski 2017a](https://link.springer.com/article/10.1007%2Fs11692-017-9420-0), [Jablonkis 2017b](https://link.springer.com/article/10.1007%2Fs11692-017-9434-7)
 
 * **Week 6**: Phenotypic plasticy, genetic assimilation, epigenetics
+    
+    **Readings**: [Orr 2005](https://www.ncbi.nlm.nih.gov/pubmed/15716908), [Pigliucci 2010](https://www.dropbox.com/sh/fyexleihzv152ja/AABaBENJHIE9Mio6-cW1wiuna?dl=0&preview=2010-Pigliucci-Phenotypic+Plasticity-Evolution-+The+Extended+Synthesis.pdf)
 
 * **Week 7**: Evo-Devo: mutations vs gene regulation
 
+    **Readings**: [Hoekstra and Coyne 2007](https://www.ncbi.nlm.nih.gov/pubmed/17492956), 
+
 * **Week 8**: Competition
 
-* **Week 9**: Can species form in sympatry?  
+* **Week 9**: Can species form in sympatry?
+
+    **Readings**: [Turelli et al. 2001](https://www.ncbi.nlm.nih.gov/pubmed/11403865), [Fitzpatrick et al. 2008](https://www.ncbi.nlm.nih.gov/pubmed/18823452), [Bolnick & Fitzpatrick 2007](https://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.38.091206.095804)
 
 * **Week 10** Synthesis (or potentially another topic) 
