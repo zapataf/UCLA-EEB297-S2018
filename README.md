@@ -53,7 +53,7 @@ Papers for each week will be posted at least one week in advance.
 
 * **Week 5**: A theory of macroevolution? 
 
-    **Readings**: [Gould 1980](http://www.somosbacteriasyvirus.com/gould.pdf), [Jablonski 2017a](https://link.springer.com/article/10.1007%2Fs11692-017-9420-0), [Jablonkis 2017b](https://link.springer.com/article/10.1007%2Fs11692-017-9434-7)
+    **Readings**: [Gould 1980](http://www.somosbacteriasyvirus.com/gould.pdf), [Jablonski 2017a](https://link.springer.com/article/10.1007%2Fs11692-017-9420-0), [Jablonksi 2017b](https://link.springer.com/article/10.1007%2Fs11692-017-9434-7)
 
 * **Week 6**: Phenotypic plasticy, genetic assimilation, epigenetics
     
