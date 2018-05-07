@@ -61,7 +61,7 @@ Papers for each week will be posted at least one week in advance.
 
 * **Week 7**: Evo-Devo: mutations vs gene regulation
 
-    **Readings**: [Hoekstra and Coyne 2007](https://www.ncbi.nlm.nih.gov/pubmed/17492956), 
+    **Readings**: [Hoekstra and Coyne 2007](https://www.ncbi.nlm.nih.gov/pubmed/17492956), [Carroll 2008](https://www.ncbi.nlm.nih.gov/pubmed/18614008)
 
 * **Week 8**: Competition
 
