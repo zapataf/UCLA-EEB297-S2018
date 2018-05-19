@@ -63,7 +63,9 @@ Papers for each week will be posted at least one week in advance.
 
     **Readings**: [Hoekstra and Coyne 2007](https://www.ncbi.nlm.nih.gov/pubmed/17492956), [Carroll 2008](https://www.ncbi.nlm.nih.gov/pubmed/18614008)
 
-* **Week 8**: Competition
+* **Week 8**: Range limits (not really a controversy, more like a contrast)
+
+    **Readings**: [Ettinger et al. 2011](https://www.ncbi.nlm.nih.gov/labs/pubmed/21797160-climate-determines-upper-but-not-lower-altitudinal-range-limits-of-pacific-northwest-conifers/), [Louthan et al. 2015](https://www.ncbi.nlm.nih.gov/labs/pubmed/26525430-where-and-when-do-species-interactions-set-range-limits/)
 
 * **Week 9**: Can species form in sympatry?
 
